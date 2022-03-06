@@ -1,1 +1,1 @@
-it's shell basic
+printing path
